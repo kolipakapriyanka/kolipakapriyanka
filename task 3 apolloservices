@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>services</title>
+</head>
+
+<body>
+    <header>
+        <center>
+            <h1>
+                <font color="orange">apollo hospitals</font>
+            </h1>
+        </center>
+
+    </header>
+    <p align="center">
+        <a href="home.html">home</a>&nbsp;&nbsp;&nbsp;
+        <a href="aboutapollo.html">about apollo</a>&nbsp;&nbsp;&nbsp;
+        <a href="apollobranches.html">apollo branches</a>&nbsp;&nbsp;&nbsp;
+        <a href="#"apollo services.html"></a>&nbsp;&nbsp;&nbsp;
+        <a href="apollodoctors".html>apollo doctors</a>&nbsp;&nbsp;&nbsp;
+        <a href="apollolabs.html">apollo labs</a>&nbsp;&nbsp;&nbsp;
+        <a href="contactus.html">contact us</a>
+    </p>
+    <hr>
+    <br><br>
+    <b>
+        <u>
+            <font color="red">apollo services:</font>
+        </u>
+    </b>
+    <ul>
+        <li>Robotic Surgery</li>
+        <li>Apollo Eyes</li>
+        <li>Apollo ENT</li>
+    </ul>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <hr>
+    <footer>
+        <h3>
+            <center>
+                <b>
+                    <font color="blue">copyright@apollo</font>
+                </b>
+            </center>
+        </h3>
+    </footer>
+</body>
+
+</html>
+        
