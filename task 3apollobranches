@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>branches</title>
+</head>
+
+<body>
+    <header>
+        <center>
+            <h1>
+                <font color="orange">Apollo Hospitals</font>
+            </h1>
+        </center>
+
+    </header>
+    <p align="center">
+        < a href="home.html">home</a>&nbsp;&nbsp;&nbsp;
+        < a href="aboutapollo.html">About Apollo</a>&nbsp;&nbsp;&nbsp;
+        < a href="Apollo Branches"</a>&nbsp;&nbsp;&nbsp;
+        < a href="apolloservices.html">apollo services</a>&nbsp;&nbsp;&nbsp;
+        < a href="apollodoctors.html">apollo doctors</a>&nbsp;&nbsp;&nbsp;
+        < a href="apollolabs.html">apollo labs</a>&nbsp;&nbsp;&nbsp;
+        < a href="contactus.html">contact us</a>
+    </p>
+    <hr>
+    <br><br>
+    <b>
+        <u>
+            <font color="red">branches in hyd:</font>
+        </u>
+    </b>
+    <ol type="1">
+        <li>jublihills</li>
+        <li>secundrabad</li>
+        <li>hyderguda</li>
+    </ol>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <hr>
+    <footer>
+        <h3>
+            <center>
+                <b>
+                    <font color="blue">copyright@apollo</font>
+                </b>
+            </center>
+        </h3>
+    </footer>
+</body>
+
+</html>
+
+        
