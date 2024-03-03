@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>array methods</title>
+</head>
+<script>
+    let fruits=[]
+    //add mango in the beginning of an array
+    fruits.push('mango')
+    console.log(fruits)
+    //add kiwi in the beginning of an array
+    fruits.unshift('kiwi')
+    console.log(fruits)
+    //add cherry in the beginning of an array
+    fruits.unshift('cherry')
+    console.log(fruits)
+    //add papaya in the beginning of an array
+    fruits.push('papaya')
+    console.log(fruits)
+    //add pineapple in the beginning of an array
+    fruits.push('pineapple')
+    console.log(fruits)
+    //add banana in the beginning of an array
+    fruits.push('banana')
+    console.log(banana)
+    //remove an element from beginning
+    fruits.shift()
+    console.log(fruits)
+    fruits.shift()
+    console.log(fruits)
+    //remove an element from ending
+    fruits.pop()
+    console.log(fruits)
+    fruits.pop()
+    console.log(fruits)
+
+    </script>
+
+    <body>
+
+        
+    </body>
+    
+
+</html>
