@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>internal js</title>
+    <script>
+        function areaofcircle(radius){
+            const pi=3.1415
+            let result=pi* radius* radius
+            console.log(result)
+        }
+    </script>
+</head>
+
+<body>
+    <script>
+        areaofcircle(5)
+        areaofcircle(10) 
+
+    </script>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
